@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:wald3/github-scanner-graphql-server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:wald3/github-scanner-graphql-client.git
